@@ -17,12 +17,6 @@ http://a.live.hnradio.com/yypd/radio120k_yypd.m3u8?auth_key=1588751172-0-0-d97b8
 http://stream.appwuhan.com/yypdzb/sd/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="h" group-title="戏曲音乐",青岛音体广播
 http://video11.qtv.com.cn/zhiboytgb-sd/manifest.m3u8
-#EXTINF:-1 tvg-logo="https://cmsres.dianzhenkeji.com//files/images/2017/12/14/1513241973460940.png" group-title="戏曲音乐",80后音悦台
-http://stream3.hndt.com/now/SFZeH2cb/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://cmsres.dianzhenkeji.com//files/images/2017/12/14/1513241941253315.png" group-title="戏曲音乐",经典FM
-http://stream3.hndt.com/now/C5NvUpwy/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://cmsres.dianzhenkeji.com/files/images/2017/12/14/1513241848889285.png" group-title="戏曲音乐",天籁古典
-http://stream3.hndt.com/now/MdOpB4zP/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/chinaplusradio.png" group-title="英语广播",CRI英语环球广播 China Plus Radio 
 http://sk.cri.cn/am846.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/Lz9bbsba4c.png" group-title="英语广播",BBC World Service
