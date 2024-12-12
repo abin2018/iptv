@@ -13,10 +13,14 @@ http://ngcdn004.cnr.cn/live/dszs/index.m3u8
 http://a.live.hnradio.com/yypd/radio120k_yypd.m3u8?auth_key=1588751172-0-0-d97b858279c1c86650172b9913ea4af2
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pic.qingting.fm/2017/0501/20170501063612.jpeg" group-title="戏曲音乐",武汉音乐广播
 http://stream.appwuhan.com/yypdzb/sd/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="h" group-title="戏曲音乐",山东音乐广播
+http://ls.qingting.fm/live/1665.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="h" group-title="戏曲音乐",山东经典音乐广播
+https://lhttp.qingting.fm/live/20240/64k.mp3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="h" group-title="戏曲音乐",青岛音体广播
 http://video11.qtv.com.cn/zhiboytgb-sd/manifest.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="h" group-title="戏曲音乐",FM105.8摩登音乐调频
-https://lhttp.qingting.fm/live/15318181/64k.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="h" group-title="戏曲音乐",济南故事广播
+http://ls.qingting.fm/live/1672.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="h" group-title="戏曲音乐",济南音乐广播FM88.7
 https://lhttp.qingting.fm/live/1671/64k.mp3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/chinaplusradio.png" group-title="英语广播",CRI英语环球广播 China Plus Radio 
